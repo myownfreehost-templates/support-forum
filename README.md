@@ -1,0 +1,1 @@
+esotalk [georgian language pack]
