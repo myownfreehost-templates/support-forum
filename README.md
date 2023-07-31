@@ -1,3 +1,3 @@
 Forum software
-esotalk [georgian language pack]
+esoTalk [georgian language pack]
 Our forum - http://forumi.eu.org
