@@ -1,2 +1,2 @@
-Forum software
-esoTalk [georgian language pack]
+ფორუმი
+esoTalk [ქართული ენის პაკეტი]
